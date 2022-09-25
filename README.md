@@ -6,3 +6,10 @@ It is also designed to work alongside the [VanillaTweaks](https://vanillatweaks.
 This pack requires the [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) mod for Fabric.
 It will not work with Optifine, as I do not support it, however feel free to port it yourself!
 Enjoy!
+
+## Screenshots
+
+![](screenshots/beehive.png)
+![](screenshots/beehive-vanillatweaks.png)
+![](screenshots/bee-nest.png)
+![](screenshots/bee-nest-vanillatweaks.png)
